@@ -16,11 +16,11 @@ IDs dos usuários
 5
 ```
 
-2.   Seu trabalho é obter os dados de cada cliente que estão dentro da pasta Usuarios/IDs.
+2.   Meu trabalho é obter os dados de cada cliente que estão dentro da pasta Usuarios/IDs.
 
-3.   Depois de obter os dados dos clientes, você vai usar a API do ChatGPT (OpenAI) para gerar uma mensagem de personalizada para os cliente. A mensagem deve ser saudando-o por se conectar no site.
+3.   Depois de obter os dados dos clientes, eu vou usar a API do ChatGPT (OpenAI) para gerar uma mensagem de personalizada para os cliente. A mensagem deve ser saudando-o por se conectar no site.
 
-4.  Uma vez que a mensagem para cada cliente esteja pronta, você vai enviar essas informações de volta para a API, atualizando a lista de "news" de cada usuário.
+4.  Uma vez que a mensagem para cada cliente esteja pronta, eu vou enviar essas informações de volta para a API, atualizando a lista de "news" de cada usuário.
 
 ## **E**xtract
 
